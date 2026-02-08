@@ -16,14 +16,13 @@ Healthcare clinics face two major challenges:
 
 ## 📊 Results Achieved
 
-|------------------------|---------------|----------|-------|-------------------|--------------|
 |         Task           |     Model     |Key Metric|Target |     Result        |    Status    |
 |------------------------|---------------|----------|-------|-------------------|--------------|
 | **No-Show Prediction** | Random Forest | F1-Score | >0.70 | **0.7261**        | ✅ Exceeded |
 | **No-Show Prediction** | Random Forest | ROC-AUC  | >0.75 | **0.8795**        | ✅ Exceeded |
 | **Demand Forecasting** | Random Forest | R²       | >0.65 | **0.7534**        | ✅ Exceeded |
 | **Demand Forecasting** | Random Forest | MAE      | -     | **±80 appts/day** | ✅ Good     |
-|------------------------|---------------|----------|-------|-------------------|--------------|
+
 
 **Business Impact:**
 - 🎯 Catches **74% of no-shows** (vs 34% baseline)
